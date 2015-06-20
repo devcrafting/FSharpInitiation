@@ -29,7 +29,18 @@ Pour en savoir plus sur le langage F# : http://fsharp.org ou plus spécifiquemen
 
 En cas de problème, ne pas hésiter à me contacter sur Twitter : @clem_bouillier
 
-### A propos du format Code Cooking 
+### A propos du format Code Cooking
+
+J'ai découvert ce format à la conférence NCrafts en mai 2015 avec Emmanuel Gaillot (https://github.com/code-cooking/code-cooking.github.io en construction...).
+Ce que j'ai compris de ce format :
+
+* Inspiré des méthodes d'apprentissage accéléré des langues
+* Proposer un apprentissage différent basé sur la pratique et l'imprégnation, plutôt que sur la théorie des langues/langages...
+* La principale contrainte qui en découle : on n'explique jamais les concepts, on pratique en mimant, les concepts émergent sans être explicités...
+* Un format : 1 "enseignant", 3 à 4 "élèves", qui chacun leur tour tentent de reproduire ce que l'enseignant a écrit (exercice de mémoire certes, mais également d'imprégnation, d'appropriation du langage...à mon avis), puis on itère pour avancer et aller de plus en plus loin
+* Un autre format (testé avec les enfants) : le Mob Programming, c'est-à-dire on programme tous ensemble en groupe, prenant le clavier chacun son tour pour aller plus loin
+
+NB: les retours sur le fait que c'est plus un exercice de mémoire ou de recopie qu'un réel apprentissage ont été assez fréquents...j'assimile cela plus à de la frustration d'être à la diète de concepts (totalement assumé par le format), à discuter...
 
 ## English
 
