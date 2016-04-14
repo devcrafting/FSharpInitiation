@@ -1,6 +1,8 @@
 # F# initiation
 
-English & French readme available, see below for English version
+English & French readme available, see below for English version.
+
+Pour la préparation et le déroulé d'un atelier Mix-Teen, voir [Mix-Teen](Mix-Teen.md)
 
 ## Français
 
