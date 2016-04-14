@@ -18,18 +18,25 @@ Alors si vous avez aimé, et que vous voulez continuer à faire du F# à la mais
 
 Si vous voulez continuer sur le sujet de cet atelier, un PC avec Windows est nécessaire (la librairie NAudio.dll, le fichier inclus au début du script écrit ensemble, ne fonctionne que sous Windows).
 
-Mais vous pouvez aussi faire de nombreuses autres choses en F# sous Linux ou MacOS.
+Mais vous pouvez aussi faire de nombreuses autres choses en F# sous Linux ou MacOS (cf. ces pages pour l'installation: [MacOS](http://fsharp.org/use/mac/) et [Linux](http://fsharp.org/use/linux/)).
 
 Sous Windows, voici la démarche à suivre pour pouvoir écrire et lancer du F# (note aux parents: rien d'illégal, que des logiciels gratuits, et très peu intrusifs, i.e sans impacts sur les autres logiciels, mais nécessite un peu d'espace disque) :
-* Installer F#:
-  * Sous Windows 7 seulement, installer ".NET 4.5":
+* Installer F# (la référence -en anglais- est [l'option 3 sur cette page](http://fsharp.org/use/windows/)):
+  * Sous Windows 7 seulement (SP1 min), installer ".NET 4.5": https://www.microsoft.com/en-us/download/details.aspx?id=42642
   * Installer le "SDK Windows":
-  * Installer "Microsoft Build Tools 2015":
-  * Installer "Visual F# Tools 4.0":
-* Installer l'éditeur de code Atom:
+    * Windows 7: https://www.microsoft.com/en-us/download/details.aspx?id=8279
+    * Windows 8: https://developer.microsoft.com/en-us/windows/downloads/windows-8-sdk
+    * Windows 8.1: https://developer.microsoft.com/en-us/windows/downloads/windows-8-1-sdk
+    * Windows 10: https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk
+  * Installer "Microsoft Build Tools 2015": https://www.microsoft.com/en-us/download/details.aspx?id=48159
+  * Installer "Visual F# Tools 4.0": https://www.microsoft.com/en-us/download/details.aspx?id=48179
+* Installer l'éditeur de code Atom: https://atom.io/
 * Installer le package Ionide dans Atom:
+  * Ouvrir Atom
+  * Appuyer simultanément sur Ctrl+Shift+P, et taper "install packages and themes", sélectionner la commande proposée
+  * Dans la fenêtre, chercher le package "ionide-installer", l'installer
 
-Et voilà, il n'y a plus qu'à ouvrir un fichier de code (fichier .fsx à télécharger sur ce site par exemple).
+Et voilà, il n'y a plus qu'à ouvrir un fichier de code avec Atom (fichier .fsx à télécharger sur ce site par exemple). Ionide va vous permettre d'éditer le code F# de manière fluide et avec l'aide contextuelle.
 
 # Pourquoi ce langage ?
 Le langage F# a l'avantage d'être facilement scriptable tout en ayant une vérification des types permettant d'avoir un retour visuel très rapide dans l'éditeur de texte sur des erreurs de syntaxe ou d'usage. Il n'est ainsi pas possible d'écrire du code qui ne se lance pas (contrairement à d'autres langages de script, beaucoup plus permissif à l'écriture avec des erreurs à l'exécution).

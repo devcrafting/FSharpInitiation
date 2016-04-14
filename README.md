@@ -24,10 +24,10 @@ La temporisation se fait avec Thread.Sleep x, où x est en millisecondes.
 Pour rejouer, aller plus loin, voici ce qui est nécessaire (tout est gratuit, voire Open Source) :
 
 * PC Windows (pour l'instant, car la lib NAudio utilise les fonctions de son Midi de Windows, je regarde quelle lib utiliser sur Linux...)
-* installer FSharp : http://www.microsoft.com/en-us/download/details.aspx?id=44011 (.NET 4.5 requis si Windows 7 ou plus ancien)  et tous les détails en anglais sur http://fsharp.org (Open Source, le framework en lui-même fonctionne sous Linux/MacOS...)
-* installer un éditeur de code (je conseille Xamarin : plus simple à installer et gratuit, on peut aussi utiliser Visual Studio 2013 Community) : http://xamarin.com/download
+* installer FSharp : http://fsharp.org (Open Source, le framework en lui-même fonctionne sous Linux/MacOS...)
+* installer un éditeur de code (je conseille Xamarin : plus simple à installer et gratuit)
 
-Pour en savoir plus sur le langage F# : http://fsharp.org ou plus spécifiquement http:// https://msdn.microsoft.com/en-us/library/dd233181.aspx
+Pour en savoir plus sur le langage F# : http://fsharp.org ou plus spécifiquement https://msdn.microsoft.com/en-us/library/dd233181.aspx
 
 En cas de problème, ne pas hésiter à me contacter sur Twitter : @clem_bouillier
 
