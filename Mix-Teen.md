@@ -17,6 +17,8 @@ La bonne nouvelle: il n'y a rien à préparer pour les participants ! Juste votr
 Alors si vous avez aimé, et que vous voulez continuer à faire du F# à la maison, c'est possible et plutôt facile.
 
 Si vous voulez continuer sur le sujet de cet atelier, un PC avec Windows est nécessaire (la librairie NAudio.dll, le fichier inclus au début du script écrit ensemble, ne fonctionne que sous Windows).
+Voici les répertoires contenant les sources des ateliers passés:
+* [Juin 2015](https://github.com/devcrafting/FSharpInitiation/tree/master/201506_MixTeen)
 
 Mais vous pouvez aussi faire de nombreuses autres choses en F# sous Linux ou MacOS (cf. ces pages pour l'installation: [MacOS](http://fsharp.org/use/mac/) et [Linux](http://fsharp.org/use/linux/)).
 
